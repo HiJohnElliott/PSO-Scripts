@@ -1,6 +1,6 @@
 '''
 
-This Script is for calcuting distance and payments for KinderKonzert serives at the Portland Symphony Orchestra
+This Script is for calcuting distance and payments for KinderKonzert series at the Portland Symphony Orchestra
 
 '''
 
